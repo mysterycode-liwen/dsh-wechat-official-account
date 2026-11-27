@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "WeChat Official Account",
+    "description": "Manage your WeChat Official Account through the WeChat platform API: upload and manage media, create/edit/delete drafts, publish and manage articles, and check account status. Configure AppID and AppSecret in the sidebar credential vault."
+  }
+}

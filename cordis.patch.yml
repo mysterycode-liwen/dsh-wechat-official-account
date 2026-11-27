@@ -1,0 +1,3 @@
+- insert:
+    - id: wechat-official-account
+      name: '@local/wechat-official-account'
